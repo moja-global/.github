@@ -17,6 +17,14 @@ moja global is a not for profit, collaborative project that brings together a co
 
 moja global is building a community of experts, scientists and developers to create the open-source source software for MRV systems for the land sector that is affordable, accurate and fully customizable to a user’s needs and available data, whether the user represents a country, a region, a local government, a company or a climate mitigation project.
 
+## Get involved
+
+Moja global thrives on the energy and spirit of our community. We are lucky to have an engaged team of scientists, geospatial analysts, policymakers, technical writers, software and web developers contributing to our ambition of supporting equitable and evidence-based policy of land and ecosystem management.
+
+Our goal is to make software for land-use planning, climate change mitigation and policy analysis. Our tools are available to all potential users, including governments, commercial entities, financial institutions, and intergovernmental bodies.
+
+The participation and growth of our community are generously supported by mentorship programs such as Google Season of Code, Google Season of Documentation, Outreachy and the Linux Foundation Experience (LFX).
+
 ## Contributing to the ecosystem
 
 The open source community is the heart of moja global and helps us build tools to fight climate change. Learn more about our ecosystem at [**moja.global**](https://moja.global) and through our projects:
